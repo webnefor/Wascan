@@ -1,5 +1,6 @@
 //
-// https://github.com/seout/
+// https://github.com/webnefor/
+// (c) Job
 //
 
 
