@@ -15,5 +15,5 @@ To compile, type:
 Example:    
 
     ./wascan -p 80,443 -h 1.1.1.1-1.1.1.255
-
-<img width="722" alt="Screenshot 2024-02-02 at 17 20 13" src="https://github.com/seout/Wascan/assets/113185077/68e4a0d1-a806-4960-bd5c-f717c6dde329">
+    
+<img width="609" alt="Screenshot 2024-07-14 at 20 49 39" src="https://github.com/user-attachments/assets/60a35c84-e005-4e3d-a438-f1692315592c">
