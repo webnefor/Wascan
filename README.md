@@ -10,8 +10,8 @@ Also enter the desired ports using the -p option
 
 To compile, type: 
     
-    make
-
+    cmake CMakeLists.txt && make
+    
 Example:    
 
     ./wascan -p 80,443 -h 1.1.1.1-1.1.1.255
